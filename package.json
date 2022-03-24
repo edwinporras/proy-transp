@@ -1,7 +1,7 @@
 {
   "name": "proy-transp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proj - Transporte",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

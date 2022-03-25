@@ -3,6 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.profile = exports.singnin = exports.singnup = void 0;
 // Registrar un usuario
 const singnup = (req, res) => {
+    console.log(req.body);
     res.send('singnup');
 };
 exports.singnup = singnup;

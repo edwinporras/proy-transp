@@ -190,3 +190,13 @@
 .flecha{
   transform: scale(3.5);
 }
+.iconSocial{
+  transform: scale(4.5);
+  margin: 0 6%;
+}
+.iconSocial > a > i{
+  color: #ffffff;
+}
+.iconSocial > a > i:hover{
+  color: #1877f2;
+}
